@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_phoenix.mk
+    $(LOCAL_DIR)/xdroid_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_phoenix-user \
-    derp_phoenix-userdebug \
-    derp_phoenix-eng
+    xdroid_phoenix-user \
+    xdroid_phoenix-userdebug \
+    xdroid_phoenix-eng
